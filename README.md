@@ -1,6 +1,4 @@
 # deep_autoencoder_recommender
-Hello, My name is **Ajoy Deb Nath**.
-This thesis work is supervised by **Prof. Dr. Md. Mokammel Haque**, Dept. of CSE, CUET.
 ## How to run the code
 ### prerequisite
  - Must need GPU support
